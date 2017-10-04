@@ -10,5 +10,5 @@ The repo contains scripts for automatic processing of Cassini SAR/VIMS with the 
 ### VIMS and SAR processing on Tortula Facula
 ![Alt text](tortola.png?raw=true)
 
-### SAR Despecle filtering and DN value false-coloring on Menrva Crater
+### SAR Despecle filtering and DN false-coloring on Menrva Crater
 ![Alt text](Menrva.png?raw=true)
