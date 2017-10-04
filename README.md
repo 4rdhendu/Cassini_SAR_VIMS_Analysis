@@ -7,7 +7,7 @@ The repo contains scripts for automatic processing of Cassini SAR/VIMS with the 
 ### Sotra Patera 3D terrain approximation with false-coloring depending on VIMS data
 [![THIS ONE !!!](Sotra.PNG)](https://www.youtube.com/watch?v=7sxKkINc6x0&feature=youtu.be)
 
-### VIMS and SAR filtering and overlapping on Tortula Facula
+### VIMS and SAR processing on Tortula Facula
 ![Alt text](tortola.png?raw=true)
 
 ### SAR Despecle filtering and DN value false-coloring on Menrva Crater
