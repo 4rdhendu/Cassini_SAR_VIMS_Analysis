@@ -3,3 +3,9 @@ Automatic processing of Cassini SAR/VIMS data
 
 
 Scripts for automatic processing of Cassini SAR/VIMS with the use of USGS' Integrated Software for Imagers and Spectrometers (ISIS3)
+
+\begin{figure}
+\caption{VIMS and SAR processing}\center
+\includegraphics[width=1.0\linewidth]{tortola.png}
+\label{fig:q1_zoom}
+\end{figure}
