@@ -12,3 +12,6 @@ The repo contains scripts for automatic processing of Cassini SAR/VIMS with the 
 
 ### SAR Despecle filtering and DN false-coloring on Menrva Crater
 ![Alt text](Menrva.png?raw=true)
+
+### SAR analysis on Kraken Mare
+![Alt text](Kraken.png?raw=true)
