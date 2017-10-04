@@ -1,4 +1,4 @@
-# Cassini VIMS & RASAR Analysis:
+# Cassini VIMS & RADAR Analysis:
 # Automatic processing of SAR/VIMS data that acquired from Cassini mission on Titan
 
 
