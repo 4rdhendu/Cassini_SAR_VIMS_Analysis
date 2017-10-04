@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# This script gets as inputs a lvl-1 VIMS and a raw SAR cub file and it performs:
+# Preprocessing and despecle filtering (from Bratsolis et al., 2012) on SAR
+# Band selection, and projection on SAR of the VIMS file
+# Projection of SAR on VIMS
+# Creates ratios of different VIMS bands (check the code)
+# Creates overlapping of VIMS on SAR
+# NOTE that the VIMS files shoud be passed through vims2isis and spiceinit fist
+
 #image input
 vims_input=$1
 radar_input=$2
